@@ -1,0 +1,70 @@
+book_id,title,price,star_rating,availability,category,source_url,price_gbp,rating,in_stock,price_inr
+1,It's Only the Himalayas,£45.17,Two,In stock,Travel,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html,45.17,2,True,4765.44
+2,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,£49.43,Four,In stock,Travel,https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html,49.43,4,True,5214.86
+3,See America: A Celebration of Our National Parks & Treasured Sites,£48.87,Three,In stock,Travel,https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html,48.87,3,True,5155.78
+4,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,£36.94,Two,In stock,Travel,https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html,36.94,2,True,3897.17
+5,Under the Tuscan Sun,£37.33,Three,In stock,Travel,https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html,37.33,3,True,3938.31
+6,A Summer In Europe,£44.34,Two,In stock,Travel,https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html,44.34,2,True,4677.87
+7,The Great Railway Bazaar,£30.54,One,In stock,Travel,https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html,30.54,1,True,3221.97
+8,A Year in Provence (Provence #1),£56.88,Four,In stock,Travel,https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html,56.88,4,True,6000.84
+9,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),£23.21,One,In stock,Travel,https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html,23.21,1,True,2448.66
+10,Neither Here nor There: Travels in Europe,£38.95,Three,In stock,Travel,https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html,38.95,3,True,4109.23
+11,"1,000 Places to See Before You Die",£26.08,Five,In stock,Travel,https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html,26.08,5,True,2751.44
+12,Sharp Objects,£47.82,Four,In stock,Mystery,https://books.toscrape.com/catalogue/sharp-objects_997/index.html,47.82,4,True,5045.01
+13,"In a Dark, Dark Wood",£19.63,One,In stock,Mystery,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html,19.63,1,True,2070.96
+14,The Past Never Ends,£56.50,Four,In stock,Mystery,https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html,56.5,4,True,5960.75
+15,A Murder in Time,£16.64,One,In stock,Mystery,https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html,16.64,1,True,1755.52
+16,The Murder of Roger Ackroyd (Hercule Poirot #4),£44.10,Four,In stock,Mystery,https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html,44.1,4,True,4652.55
+17,The Last Mile (Amos Decker #2),£54.21,Two,In stock,Mystery,https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html,54.21,2,True,5719.16
+18,That Darkness (Gardiner and Renner #1),£13.92,One,In stock,Mystery,https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html,13.92,1,True,1468.56
+19,Tastes Like Fear (DI Marnie Rome #3),£10.69,One,In stock,Mystery,https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html,10.69,1,True,1127.79
+20,A Time of Torment (Charlie Parker #14),£48.35,Five,In stock,Mystery,https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html,48.35,5,True,5100.92
+21,A Study in Scarlet (Sherlock Holmes #1),£16.73,Two,In stock,Mystery,https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html,16.73,2,True,1765.02
+22,Poisonous (Max Revere Novels #3),£26.80,Three,In stock,Mystery,https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html,26.8,3,True,2827.4
+23,Murder at the 42nd Street Library (Raymond Ambler #1),£54.36,Four,In stock,Mystery,https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html,54.36,4,True,5734.98
+24,Most Wanted,£35.28,Three,In stock,Mystery,https://books.toscrape.com/catalogue/most-wanted_623/index.html,35.28,3,True,3722.04
+25,Hide Away (Eve Duncan #20),£11.84,One,In stock,Mystery,https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html,11.84,1,True,1249.12
+26,Boar Island (Anna Pigeon #19),£59.48,Three,In stock,Mystery,https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html,59.48,3,True,6275.14
+27,The Widow,£27.26,Two,In stock,Mystery,https://books.toscrape.com/catalogue/the-widow_609/index.html,27.26,2,True,2875.93
+28,Playing with Fire,£13.71,Three,In stock,Mystery,https://books.toscrape.com/catalogue/playing-with-fire_602/index.html,13.71,3,True,1446.41
+29,What Happened on Beale Street (Secrets of the South Mysteries #2),£25.37,Five,In stock,Mystery,https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html,25.37,5,True,2676.54
+30,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),£52.30,Five,In stock,Mystery,https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html,52.3,5,True,5517.65
+31,Delivering the Truth (Quaker Midwife Mystery #1),£20.89,Four,In stock,Mystery,https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html,20.89,4,True,2203.9
+32,The Mysterious Affair at Styles (Hercule Poirot #1),£24.80,Four,In stock,Mystery,https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html,24.8,4,True,2616.4
+33,In the Woods (Dublin Murder Squad #1),£38.38,Two,In stock,Mystery,https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html,38.38,2,True,4049.09
+34,The Silkworm (Cormoran Strike #2),£23.05,Five,In stock,Mystery,https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html,23.05,5,True,2431.78
+35,The Exiled,£43.45,Three,In stock,Mystery,https://books.toscrape.com/catalogue/the-exiled_247/index.html,43.45,3,True,4583.98
+36,The Cuckoo's Calling (Cormoran Strike #1),£19.21,One,In stock,Mystery,https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html,19.21,1,True,2026.66
+37,Extreme Prey (Lucas Davenport #26),£25.40,Three,In stock,Mystery,https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html,25.4,3,True,2679.7
+38,Career of Evil (Cormoran Strike #3),£24.72,Two,In stock,Mystery,https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html,24.72,2,True,2607.96
+39,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),£57.70,Four,In stock,Mystery,https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html,57.7,4,True,6087.35
+40,The Girl You Lost,£12.29,Five,In stock,Mystery,https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html,12.29,5,True,1296.59
+41,The Girl In The Ice (DCI Erika Foster #1),£15.85,Three,In stock,Mystery,https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html,15.85,3,True,1672.18
+42,Blood Defense (Samantha Brinkman #1),£20.30,Three,In stock,Mystery,https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html,20.3,3,True,2141.65
+43,1st to Die (Women's Murder Club #1),£53.98,One,In stock,Mystery,https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html,53.98,1,True,5694.89
+44,Tipping the Velvet,£53.74,One,In stock,Historical Fiction,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html,53.74,1,True,5669.57
+45,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,£29.69,Three,In stock,Historical Fiction,https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html,29.69,3,True,3132.3
+46,A Flight of Arrows (The Pathfinders #2),£55.53,Five,In stock,Historical Fiction,https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html,55.53,5,True,5858.42
+47,The House by the Lake,£36.95,One,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html,36.95,1,True,3898.23
+48,Mrs. Houdini,£30.25,Five,In stock,Historical Fiction,https://books.toscrape.com/catalogue/mrs-houdini_821/index.html,30.25,5,True,3191.38
+49,The Marriage of Opposites,£28.08,Four,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html,28.08,4,True,2962.44
+50,Glory over Everything: Beyond The Kitchen House,£45.84,Three,In stock,Historical Fiction,https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html,45.84,3,True,4836.12
+51,"Love, Lies and Spies",£20.55,Two,In stock,Historical Fiction,https://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html,20.55,2,True,2168.02
+52,A Paris Apartment,£39.01,Four,In stock,Historical Fiction,https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html,39.01,4,True,4115.55
+53,Lilac Girls,£17.28,Two,In stock,Historical Fiction,https://books.toscrape.com/catalogue/lilac-girls_597/index.html,17.28,2,True,1823.04
+54,The Constant Princess (The Tudor Court #1),£16.62,Three,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html,16.62,3,True,1753.41
+55,The Invention of Wings,£37.34,One,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html,37.34,1,True,3939.37
+56,World Without End (The Pillars of the Earth #2),£32.97,Four,In stock,Historical Fiction,https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html,32.97,4,True,3478.34
+57,The Passion of Dolssa,£28.32,Five,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html,28.32,5,True,2987.76
+58,Girl With a Pearl Earring,£26.77,One,In stock,Historical Fiction,https://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html,26.77,1,True,2824.24
+59,Voyager (Outlander #3),£21.07,Five,In stock,Historical Fiction,https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html,21.07,5,True,2222.89
+60,The Red Tent,£35.66,Five,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-red-tent_273/index.html,35.66,5,True,3762.13
+61,The Last Painting of Sara de Vos,£55.55,Two,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html,55.55,2,True,5860.52
+62,The Guernsey Literary and Potato Peel Pie Society,£49.53,One,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html,49.53,1,True,5225.42
+63,Girl in the Blue Coat,£46.83,Two,In stock,Historical Fiction,https://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html,46.83,2,True,4940.56
+64,Between Shades of Gray,£20.79,Five,In stock,Historical Fiction,https://books.toscrape.com/catalogue/between-shades-of-gray_128/index.html,20.79,5,True,2193.34
+65,While You Were Mine,£41.32,Five,In stock,Historical Fiction,https://books.toscrape.com/catalogue/while-you-were-mine_97/index.html,41.32,5,True,4359.26
+66,The Secret Healer,£34.56,Three,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-secret-healer_80/index.html,34.56,3,True,3646.08
+67,Starlark,£25.83,Three,In stock,Historical Fiction,https://books.toscrape.com/catalogue/starlark_56/index.html,25.83,3,True,2725.06
+68,Lost Among the Living,£27.70,Four,In stock,Historical Fiction,https://books.toscrape.com/catalogue/lost-among-the-living_31/index.html,27.7,4,True,2922.35
+69,A Spy's Devotion (The Regency Spies of London #1),£16.97,Five,In stock,Historical Fiction,https://books.toscrape.com/catalogue/a-spys-devotion-the-regency-spies-of-london-1_3/index.html,16.97,5,True,1790.33

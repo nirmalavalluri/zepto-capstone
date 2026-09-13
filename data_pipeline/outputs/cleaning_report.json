@@ -1,0 +1,8 @@
+{
+  "raw_rows": 69,
+  "clean_rows": 69,
+  "rejected_rows": 0,
+  "category_count": 3,
+  "gbp_to_inr": 105.5,
+  "cleaning_policy": "Drop rows with missing or invalid required fields; save rejected rows for inspection."
+}
