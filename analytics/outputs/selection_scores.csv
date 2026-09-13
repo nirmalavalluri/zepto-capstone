@@ -1,0 +1,7 @@
+model,training_cv_f1
+Logistic Regression,0.7246353792381143
+Decision Tree,0.7212557232931646
+Random Forest,0.7334612451762992
+Tuned Random Forest,0.757483506619927
+Logistic Regression (Balanced weights),0.7328369284555754
+Logistic Regression (SMOTE),0.7305259366269962
